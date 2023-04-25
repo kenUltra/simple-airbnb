@@ -2,7 +2,7 @@ import React from "react";
 import Wrap from "../styles/Wrap.module.css";
 import { Link } from "react-router-dom";
 
-export default function HeaderHost({ btnSign }) {
+export default function HeaderHost({ btnSign, langZone }) {
   const logoAir = {
     display: "block",
   };
@@ -32,7 +32,7 @@ export default function HeaderHost({ btnSign }) {
             </Link>
           </span>
         </div>
-        <div className={Wrap.twice}>
+        <div className={Wrap.twice}  onClick={langZone}>
           <svg
             viewBox="0 0 16 16"
             xmlns="http://www.w3.org/2000/svg"

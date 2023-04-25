@@ -151,12 +151,7 @@ function AirAccount() {
 				<label>Enter you email</label>
 				<input type="email" name="mail" required />
 				<label>Your gender: you can't spell female without male</label>
-				<div className="gender-user">
-					<input type="radio" />
-					<span>male</span>
-					<input type="radio" />
-					<span>female</span>
-				</div>
+				
 				<input type="submit" value="Create Account" className="btn-sub" />
 			</form>
 		</div>

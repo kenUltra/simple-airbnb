@@ -119,15 +119,7 @@ form.air-wrap-content {
   height: 2rem;
   padding-left: 6px;
 }
-.gender-user {
-  margin-left: 15px;
-}
-.gender-user > span {
-  font-size: 17px;
-  font-weight: 700;
-  text-transform: capitalize;
-  padding: 18px;
-}
+
 .air-wrap-content > .btn-sub {
   width: 20%;
   height: 3rem;

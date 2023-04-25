@@ -57,32 +57,32 @@
           "som": [
             {
               "id": 1,
-              "photo": "https://airbnb-project-uudk.onrender.com/Assets/places/word_wide.jpg",
+              "photo": "https://kenUltra.github.io/simple-airbnb/Assets/places/word_wide.jpg",
               "era": "I'm flexble"
             },
             {
               "id": 2,
-              "photo": "https://airbnb-project-uudk.onrender.com/Assets/places/europe.jpg",
+              "photo": "https://kenUltra.github.io/simple-airbnb/Assets/places/europe.jpg",
               "era": "Europe"
             },
             {
               "id": 3,
-              "photo": "https://airbnb-project-uudk.onrender.com/Assets/places/mexico.jpg",
+              "photo": "https://kenUltra.github.io/simple-airbnb/Assets/places/mexico.jpg",
               "era": "Mexico"
             },
             {
               "id": 4,
-              "photo": "https://airbnb-project-uudk.onrender.com/Assets/places/south_america.jpg",
+              "photo": "https://kenUltra.github.io/simple-airbnb/Assets/places/south_america.jpg",
               "era": "South america"
             },
             {
               "id": 5,
-              "photo": "https://airbnb-project-uudk.onrender.com/Assets/places/italy.jpg",
+              "photo": "https://kenUltra.github.io/simple-airbnb/Assets/places/italy.jpg",
               "era": "Italy"
             },
             {
               "id": 6,
-              "photo": "https://airbnb-project-uudk.onrender.com/Assets/places/asia.jpg",
+              "photo": "https://kenUltra.github.io/simple-airbnb/Assets/places/asia.jpg",
               "era": "Asia"
             }
           ]
@@ -124,11 +124,11 @@
             "price": 520,
             "liked": false,
             "imagesUrl": [
-              "https://airbnb-project-uudk.onrender.com/Assets/images/kichen.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/beach_patio.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/bed_1.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/bed_2.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/house_mountain.jpg"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/kichen.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/beach_patio.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/bed_1.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/bed_2.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/house_mountain.jpg"
             ]
           },
           {
@@ -139,11 +139,11 @@
             "price": 620,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/wide.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/wide_views.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/outSide.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/outSide.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/City_01.png"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/wide.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/wide_views.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/outSide.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/outSide.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/City_01.png"
             ]
           },
           {
@@ -154,11 +154,11 @@
             "price": 102,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/pool.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Bed_room.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/pool.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Bed_room.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/pool.jpg"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/pool.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Bed_room.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/pool.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Bed_room.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/pool.jpg"
             ]
           },
           {
@@ -169,11 +169,11 @@
             "price": 820,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/forest.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/patio_2.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/patio_3.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/patio_4.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/luxe_2.jpeg"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/forest.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/patio_2.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/patio_3.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/patio_4.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/luxe_2.jpeg"
             ]
           },
           {
@@ -184,11 +184,11 @@
             "price": 520,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/luxe_6.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Living_room.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Living_room_01.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Living_room_02.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Living_room_03.jpeg"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/luxe_6.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Living_room.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Living_room_01.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Living_room_02.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Living_room_03.jpeg"
             ]
            },
           {
@@ -199,11 +199,11 @@
             "price": 620,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/house.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/City_01.png",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/City_02.png",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/City_03.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/City_04.jpeg"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/house.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/City_01.png",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/City_02.png",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/City_03.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/City_04.jpeg"
             ]
            },
           {
@@ -214,13 +214,13 @@
             "price": 820,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/bed.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Cook.png",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Cook_01.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Cook_02.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Cook_03.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Cook_04.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Cook_05.png"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/bed.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Cook.png",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Cook_01.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Cook_02.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Cook_03.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Cook_04.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Cook_05.png"
             ]
           },
           {
@@ -231,12 +231,12 @@
             "price": 820,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/garden.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Office.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Office_01.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Office_02.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Office_03.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Office_04.jpeg"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/garden.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Office.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Office_01.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Office_02.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Office_03.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Office_04.jpeg"
             ]
           },
           {
@@ -247,13 +247,13 @@
             "price": 320,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/garden.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Shower.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Shower_01.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Shower_02.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Shower_03.png",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Shower_04.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Shower_04.jpg"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/garden.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Shower.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Shower_01.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Shower_02.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Shower_03.png",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Shower_04.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Shower_04.jpg"
             ]
           },
           {
@@ -264,11 +264,11 @@
             "price": 220,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/living_room.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Cook.png",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Cook_01.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Cook_02.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Cook_03.jpeg"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/living_room.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Cook.png",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Cook_01.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Cook_02.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Cook_03.jpeg"
             ]
           },
           {
@@ -279,11 +279,11 @@
             "price": 108,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/luxe_2.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Guest_01.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Guest_place.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Office.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Office_01.jpeg"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/luxe_2.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Guest_01.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Guest_place.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Office.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Office_01.jpeg"
             ]
           },
           {
@@ -294,12 +294,12 @@
             "price": 600,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/luxe_1.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/living_room1.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/luxe_1.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/living_room1.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/luxe_1.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/living_room1.jpg"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/luxe_1.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/living_room1.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/luxe_1.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/living_room1.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/luxe_1.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/living_room1.jpg"
             ]
          },
           {
@@ -310,12 +310,12 @@
             "price": 600,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/living_room2.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/living_room1.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/living_room2.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Cook.png",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Cook_01.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Cook_02.jpg"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/living_room2.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/living_room1.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/living_room2.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Cook.png",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Cook_01.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Cook_02.jpg"
             ]
           },
           {
@@ -326,11 +326,11 @@
             "price": 162,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/patio_4.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/patio_3.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/patio_4.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/patio_3.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Cook_03.jpeg"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/patio_4.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/patio_3.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/patio_4.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/patio_3.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Cook_03.jpeg"
             ]
           },
           {
@@ -341,11 +341,11 @@
             "price": 182,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/pool.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/pool_1.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/pool.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/pool_1.jpg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/hero/Living_room_03.jpeg"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/pool.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/pool_1.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/pool.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/pool_1.jpg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/hero/Living_room_03.jpeg"
             ]
           },
           {
@@ -356,184 +356,184 @@
             "price": 102,
             "liked": false,
             "imagesUrl":[
-              "https://airbnb-project-uudk.onrender.com/Assets/images/beach.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/inside.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/beach.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/inside.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/beach.jpeg",
-              "https://airbnb-project-uudk.onrender.com/Assets/images/inside.jpeg"
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/beach.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/inside.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/beach.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/inside.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/beach.jpeg",
+              "https://kenUltra.github.io/simple-airbnb/Assets/images/inside.jpeg"
             ]
           }
     ],
     "subHeader": [
         {
          "id": 1,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/Amazing_views.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/Amazing_views.jpg",
           "categorie": "Amazing views"
         },
         {
          "id": 2,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/oh_my_god.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/oh_my_god.jpg",
           "categorie": "OMG!"
         },
         {
          "id": 3,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/cabins.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/cabins.jpg",
           "categorie": "cabins"
         },
         {
          "id": 4,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/off_the_grid.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/off_the_grid.jpg",
           "categorie": "Off-the-grid"
         },
         {
          "id": 5,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/beachfront.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/beachfront.jpg",
           "categorie": "Beachfront"
         },
         {
          "id": 6,
-          "imageNav": "https://airbnb-project-uudk.onrender.com//Assets/icons/mansions.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb//Assets/icons/mansions.jpg",
           "categorie": "Mansion"
         },
         {
          "id": 7,
-          "imageNav": "https://airbnb-project-uudk.onrender.com//Assets/icons/ski_in_out.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb//Assets/icons/ski_in_out.jpg",
           "categorie": "Ski-in/out"
         },
         {
          "id": 8,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/private_room.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/private_room.jpg",
           "categorie": "Private Room"
         },
         {
          "id": 9,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/luxe.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/luxe.jpg",
           "categorie": "Luxe"
         },
         {
           "id": 10,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/Amazing_pools.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/Amazing_pools.jpg",
           "categorie": "Amazing pools"
         },
         {
           "id": 11,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/design.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/design.jpg",
           "categorie": "Desing"
         },
         {
           "id": 12,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/tiny_home.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/tiny_home.jpg",
           "categorie": "Tiny home"
         },
         {
           "id": 13,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/trending.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/trending.jpg",
           "categorie": "Trending"
         },
         {
           "id": 14,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/treeHouses.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/treeHouses.jpg",
           "categorie": "Treehouses"
         },
         {
           "id": 15,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/lake.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/lake.jpg",
           "categorie": "lakefront"
         },
         {
           "id": 16,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/boats.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/boats.jpg",
           "categorie": "Boeats"
         },
         {
           "id": 17,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/a_frames.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/a_frames.jpg",
           "categorie": "A-frames"
         },
         {
           "id": 18,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/countrySide.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/countrySide.jpg",
           "categorie": "countrySide"
         },
         {
           "id": 19,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/islands.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/islands.jpg",
           "categorie": "Islands"
         },
         {
           "id": 20,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/farms.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/farms.jpg",
           "categorie": "farmes"
         },
         {
           "id": 21,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/play.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/play.jpg",
           "categorie": "Play"
         },
         {
           "id": 22,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/vineyards.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/vineyards.jpg",
           "categorie": "Vineyards"
         },
         {
           "id": 23,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/national_parks.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/national_parks.jpg",
           "categorie": "National parks"
         },
         {
           "id": 24,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/caves.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/caves.jpg",
           "categorie": "Cave"
         },
         {
           "id": 25,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/lake.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/lake.jpg",
           "categorie": "Lake"
         },
         {
           "id": 26,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/earth_homes.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/earth_homes.jpg",
           "categorie": "earth home"
         },
         {
           "id": 27,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/domes.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/domes.jpg",
           "categorie": "domes"
         },
         {
           "id": 28,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/tropical.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/tropical.jpg",
           "categorie": "tropical"
         },
         {
           "id": 29,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/chefs_kitchens.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/chefs_kitchens.jpg",
           "categorie": "chef's kitchens"
         },
         {
           "id": 30,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/desert.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/desert.jpg",
           "categorie": "Desert"
         },
         {
           "id": 31,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/yurts.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/yurts.jpg",
           "categorie": "Yurts"
         },
         {
           "id": 32,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/houseboads.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/houseboads.jpg",
           "categorie": "Houseboads"
         },
         {
           "id": 34,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/surfing.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/surfing.jpg",
           "categorie": "surfing"
         },
         {
           "id": 35,
-          "imageNav": "https://airbnb-project-uudk.onrender.com/Assets/icons/iconic_cites.jpg",
+          "imageNav": "https://kenUltra.github.io/simple-airbnb/Assets/icons/iconic_cites.jpg",
           "categorie": "Iconic cites"
         }
     ],

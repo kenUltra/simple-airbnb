@@ -1,5 +1,6 @@
 import React from "react";
-import './shared.css'
+import './shared.css';
+import { PrimaryHost } from "../util/hostPage"; 
 import HostStyle from "./Host.module.css";
 import HeaderHost from "../Component/Host/Element/HeaderHost";
 import Sign from "../Component/Host/Element/Sign";
@@ -11,6 +12,7 @@ import Btn from "../Component/Host/Element/Btn";
 import Choice from "../Component/Host/Element/Choice";
 import FooterHost from "../Component/Host/Element/FooterHost";
 import Remove from "../Component/Host/Remove";
+import Language from "../Component/Airbnb_base/Languages/Language";
 
 
 let hello = 0;
@@ -21,6 +23,7 @@ class Host extends React.Component {
     super();
     this.state = {
       sign: false,
+      zones: false,
       section: [],
       trip: [],
       best: [],
@@ -32,12 +35,10 @@ class Host extends React.Component {
     this.Seller = this.Seller.bind(this);
     this.fast = this.fast.bind(this);
     this.home = this.home.bind(this);
+    this.zone = this.zone.bind(this);
   }
   componentDidMount() {
-    fetch("http://localhost:3000/Data/host.json")
-      .then((res) => {
-        return res.json();
-      })
+    PrimaryHost()
       .then((data) => {
         const head = data.host;
         const subHead = data.trip;
@@ -379,7 +380,14 @@ class Host extends React.Component {
     }    
   }
   home(){
-    this.setState({ sign: false });
+    this.setState({ sign: false, zones: false });
+  }
+  zone(){
+    this.setState((prev)=>{
+      return {
+        zones : prev.zones = true
+      }
+    })
   }
   render() {
     return (
@@ -388,9 +396,11 @@ class Host extends React.Component {
           <h1>Hello and welcome to you</h1>
         </div>
         <div className={HostStyle.host}>
-          <HeaderHost btnSign={this.getNotify} />
+          <HeaderHost btnSign={this.getNotify} langZone={this.zone}/>
         {this.state.sign && <Sign />}
         {this.state.sign && <Remove Bhome={this.home} />}
+        {this.state.zones && <Language />}
+        {this.state.zones && <Remove Bhome={this.home}/>}
         </div>
 
         <Lead slideLeft={this.left} rightSlide={this.right} content="wrap-up-section top-hero">
