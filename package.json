@@ -1,8 +1,8 @@
 {
   "homepage": "https://kenUltra.github.io/simple-airbnb",
-  "name": "airbnb-me",
+  "name": "Airbnb_sample",
   "version": "0.1.5",
-  "private": false,
+  "private": true,
   "email": "uchihatiana@gmail.com",
   "founder": "Airbnb",
   "Author": "Cedric A",

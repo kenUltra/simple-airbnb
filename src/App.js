@@ -1,3 +1,5 @@
+//import {ApartAirbnb} from './util/hostPage';
+import React from "react";
 import { createBrowserRouter, createRoutesFromElements, RouterProvider, Route } from "react-router-dom";
 import "./App.css";
 import Host from "./pages/Host";
@@ -9,7 +11,10 @@ import Home from "./Component/Home/Home";
 const route = createBrowserRouter(
 	createRoutesFromElements(
 		<Route path="/" errorElement={<Matter />}>
-			<Route index element={<Airbnb/>} />
+			<Route index element={<Airbnb />} />
+			<Route path="/simple-airbnb">
+				<Route index element={<Airbnb />} />
+			</Route>
 			<Route path="/host-house">
 				<Route index element={<Host />} />
 			</Route>
@@ -28,3 +33,4 @@ function App() {
 }
 
 export default App;
+

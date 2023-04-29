@@ -9,9 +9,6 @@ export default function Term(props) {
 					<div className="full-screen" onClick={props.full}>
 						F
 					</div>
-					<div className="scrolling-page" onClick={props.down}>
-						<div className="fixed-cirle">D</div>
-					</div>
 					<div className="title">
 						<h1>{props.type}</h1>
 					</div>
